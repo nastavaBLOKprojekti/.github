@@ -29,7 +29,7 @@ Ovo je zajedničko okruženje namenjeno učenicima za vežbanje programiranja, t
 
 ### 3️⃣ Slanje linka nastavniku
 Kada kreiraš repozitorijum i postaviš projekat, pošalji link svog repozitorijuma nastavniku putem mejla:  
-📧 **vesna.stanojevic@example.com**
+📧 **vesna.stanojevic.0306@gmail.com**
 
 Primer:
 ```
