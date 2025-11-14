@@ -3,6 +3,8 @@
 Dobrodošli u GitHub organizaciju **nastavaIT**!  
 Ovo je zajedničko okruženje namenjeno učenicima za vežbanje programiranja, timski rad i upravljanje projektima pomoću **GitHub-a**.
 
+Sva uputstva i dodatni dokunenti se nalaze u Repozitorijumu - PROJEKTNA NASTAVA.
+
 ---
 
 ## 🧭 Uputstvo za početak rada
